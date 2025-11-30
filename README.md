@@ -19,6 +19,9 @@
 ## 📘 Visão Geral
 
 Este repositório consolida exercícios, anotações e experimentos desenvolvidos durante meu processo de aprendizado em **Python**.  
+
+## 🚀 Objetivos
+
 Seu objetivo é registrar minha evolução técnica e construir uma base sólida para aplicações em:
 
 - **Data Science**
@@ -48,6 +51,7 @@ Cada exercício contém:
 - **Explicação do raciocínio usado**
 
 ---
+
 ## 📈 Progresso de Estudos
 
 | Data       | Conteúdo estudado                                                                                 | Status |
@@ -96,7 +100,7 @@ timeline
 
 ---
 
-## 📂 Estrutura de Pastas 
+## 📦 Estrutura de Pastas 
 
 ```
 📦 python-learning-log
